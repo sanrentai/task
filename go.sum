@@ -1,0 +1,4 @@
+github.com/go-log/log v0.2.0 h1:z8i91GBudxD5L3RmF0KVpetCbcGWAV7q1Tw1eRwQM9Q=
+github.com/go-log/log v0.2.0/go.mod h1:xzCnwajcues/6w7lne3yK2QU7DBPW7kqbgPGG5AF65U=
+github.com/sanrentai/snowflake v1.0.2 h1:92nNkAP7IOpQuFoDZi88OkI6spIZwIXJ3fBUZ1IH4S4=
+github.com/sanrentai/snowflake v1.0.2/go.mod h1:WcMg4mUAvdaTxVRKlHHYtgrDG2kcgTutjkFfxQvtKlc=
